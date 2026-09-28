@@ -21,5 +21,5 @@ I build software products for small businesses and community organisations, and 
 
 ## Find me
 
-- 💼 LinkedIn: [Duc Anh Lo]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/duc-anh-lo-840391218/))
+- 💼 LinkedIn: https://linkedin.com/in/duc-anh-lo-840391218/
 - 📧 Email: withducanh@gmail.com
