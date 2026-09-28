@@ -1,4 +1,4 @@
-# Hi, I'm Duc 👋
+# Hi, Duc Anh here 👋
 
 I build software products for small businesses and community organisations, and I like explaining how the technology works in plain language.
 
